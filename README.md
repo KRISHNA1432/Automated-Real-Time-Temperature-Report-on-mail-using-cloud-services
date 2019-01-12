@@ -5,3 +5,7 @@ I have developed a Real Time Automated Temperature and Humidity Report generatio
 using adafruit library.
 
 Please Refer to the given code for execution.
+
+Wiring
+![wiring](https://user-images.githubusercontent.com/26552171/51074854-34f16f00-16aa-11e9-8316-dbdedab2d9e4.jpg)
+
